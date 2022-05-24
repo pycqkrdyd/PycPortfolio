@@ -1,12 +1,12 @@
 # Site
-repository: https://pycqkrdyd.github.io
+repository: pycqkrdyd.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
+name: 박용채
 title: Your job title
 email: Your email (optional)
 # email_title: Email (Email title override)
