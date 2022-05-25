@@ -90,14 +90,6 @@ content:
     layout: list
     content:
       - layout: right
-        title: Hancom MDS
-        sub_title: Consultant (직급 사원)
-        caption: 2020.01 ~ 2021.04
-        link: https://www.hancomit.com/index
-        quote: >
-          한글과컴퓨터 자회사로 차세대 모빌리티의 핵심 소프트웨어를 쉽게 개발하고 확장 가능한 개발 플랫폼 제공합니다.
- 
-      - layout: right
         title: Hyundai-Autoever
         sub_title: Cybersecurity Manager (직급 책임)
         caption: 2021.05 ~ 현재
@@ -106,8 +98,16 @@ content:
           미래차 성장 동력의 한 축인 인포테인먼트 산업 전반을 혁신적으로 리드합니다.
           GIS분야의 축적된 기술력과 노하우를 바탕으로 디지털 맵, 내비게이션SW, 자율주행 정밀지도를
           정교하게 제작하고 글로벌 위치 기반 콘텐츠와 통합 OTA 서비스를 제공하여 사용자가
-          전혀 다른 모빌리티 서비스, 혁신적인 카 라이프를 경험할 수 있도록 합니다.
-  
+          전혀 다른 모빌리티 서비스, 혁신적인 카 라이프를 경험할 수 있도록 합니다.    
+    
+      - layout: right
+        title: Hancom MDS
+        sub_title: Consultant (직급 사원)
+        caption: 2020.01 ~ 2021.04
+        link: https://www.hancomit.com/index
+        quote: >
+          한글과컴퓨터 자회사로 차세대 모빌리티의 핵심 소프트웨어를 쉽게 개발하고 확장 가능한 개발 플랫폼 제공합니다.
+ 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
