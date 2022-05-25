@@ -98,7 +98,9 @@ content:
           차세대 모빌리티의 핵심 소프트웨어를 쉽게 개발하고 확장 가능한 개발 플랫폼 제공 
         description: | # this will include new lines to allow paragraphs
           IBM Rhapsody 라이선스 계약을 통해 커스터마이징 한 RapidAUTO 솔루션을 제공하며 ASPICE, ISO26262, Classic AUTOSAR
+          
           개발이 가능한 툴을 통해 자동차 OEM 양산 납품, 국제 인증을 받기 위한 산출물 확보가 가능하도록 컨설팅 업무 수행
+          
           설계 도구에서 인증에 필요한 성적서를 자동으로 작성하는 IBM Lifecycle Optimization 도구 유지보수
           
       - layout: right
@@ -114,6 +116,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           현대기아차에 탑재되는 내비게이션SW 개발 프로세스 관리 및 개선 (개발자 400여명)
+          
           아이오닉 6 유럽 차량 사이버보안 법규 인증, 신규 사양 보안 법규 영향도 검토
           
   - title: A Little More About Me
