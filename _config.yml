@@ -43,7 +43,7 @@ content:
         caption: 2022.1 ~ 현재
         description: | 
             [기술스택]
-            - JIRA, Confluence, ISO21434, UNECE R.155, UNECE R.156
+            - JIRA, Confluence, ISO21434, UNECE R.155, UNECE R.156, Vehicle Cybersecurity
             
             [진행업무]
             - 추가/변경/삭제된 사양으로 인해 법규 영향(차량 사이버보안 법규, SW 업데이트 법규)이 있는 항목이 있는지 검토
@@ -56,7 +56,7 @@ content:
         caption: 2021.5 ~ 2021.12
         description: | 
             [기술스택]
-            - JIRA, Confluence, ASPICE, Project Management
+            - JIRA, Confluence, ASPICE, Process Innovation
             
             [진행업무]
             - CMMI 기반 구축된 자사 개발 프로세스가 잘 적용되고 수행되고 있는지 관리
