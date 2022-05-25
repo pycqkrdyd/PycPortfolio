@@ -39,8 +39,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: 내비게이션 SW 사양 관리
         caption: 2022.1 ~ 현재
         description: | 
@@ -66,8 +64,6 @@ content:
             - 사업부 대외 운영 업무 수행
             
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: IBM Lifecycle Optimization - Publishing 유지보수
         caption: 2020.6 ~ 2021.4
         description: | 
@@ -105,8 +101,6 @@ content:
           개발이 가능한 툴을 통해 자동차 OEM 양산 납품, 국제 인증을 받기 위한 산출물 확보가 가능하도록 컨설팅 업무 수행
           설계 도구에서 인증에 필요한 성적서를 자동으로 작성하는 IBM Lifecycle Optimization 도구 유지보수
           
-    layout: list
-    content:
       - layout: right
         title: Hyundai-Autoever
         sub_title: Cybersecurity Manager (직급 책임)
