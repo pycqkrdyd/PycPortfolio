@@ -110,7 +110,7 @@ content:
           개발이 가능한 툴을 통해 자동차 OEM 양산 납품, 국제 인증을 받기 위한 산출물 확보가 가능하도록 컨설팅 업무 수행
           설계 도구에서 인증에 필요한 성적서를 자동으로 작성하는 IBM Lifecycle Optimization 도구 유지보수
           
- layout: list
+    layout: list
     content:
       - layout: right
         title: Hyundai-Autoever
