@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: 안녕하세요. 박용채입니다.
-title: 자동차 국제 프로세스 ASPICE, ISO21434 기반  
-Cybersecurity Manager 업무를 수행하고 있습니다.\
+title: 자동차 국제 프로세스 ASPICE, ISO21434 기반 Cybersecurity Manager 업무를 수행하고 있습니다.
 email: qkrdydpyc@gmail.com
 # email_title: Email (Email title override)
 website: blog.naver.com/qkrdydpyc
@@ -48,7 +47,7 @@ content:
             
             [진행업무]
             - 추가/변경/삭제된 사양으로 인해 법규 영향(차량 사이버보안 법규, SW 업데이트 법규)이 있는 항목 검토
-            - 차량 형식 인증을 위한 내비게이션SW TARA(보안취약점) 분석,성적서 증빙자료 작성, JIRA 보안 사양 관리
+            - 차량 형식 인증을 위한 내비게이션SW TARA(보안취약점) 분석,성적서 증빙자료 작성, JIRA 보안 사양, 관리
             - 고객사와 커뮤니케이션하며 개발자 일정 관리, 공수관리 등 PM 업무 수핼
             
       - layout: left
