@@ -90,7 +90,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: Angular
         description: |
             - 직위 및 포지션에 관계없이 적극적으로 의견을 제안합니다.
             - 근거를 갖고 설득하며 자신의 의견을 고집하지 않고 다양한 관점에서 보는 것을 좋아합니다.
