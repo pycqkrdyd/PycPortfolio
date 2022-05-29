@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: 안녕하세요. 박용채입니다.
-title: 자동차 국제 프로세스 ASPICE, ISO21434 기반 
-       Cybersecurity Manager 업무를 수행하고 있습니다.
+title: 자동차 국제 프로세스 ASPICE, ISO21434 기반 Cybersecurity Manager 업무를 수행하고 있습니다.
 email: qkrdydpyc@gmail.com
 # email_title: Email (Email title override)
 website: blog.naver.com/qkrdydpyc
@@ -88,10 +87,8 @@ content:
             - 파워트레인, 펌프, 사이드미러 등 다양한 도메인의 차량 SW 프로세스 구축 컨설팅 수행
             
   - title: Communication
-    layout: list
-    content:
-      - layout: text
-        content: |
+    layout: text
+    content: |
             - 직위 및 포지션에 관계없이 적극적으로 의견을 제안합니다./n
             - 근거를 갖고 설득하며 자신의 의견을 고집하지 않고 다양한 관점에서 보는 것을 좋아합니다./n
             - 동의한다면 동의한 근거를, 그렇지 않다면 그러한 이유에 대해 생각하며 결과보다는 원인을 고민합니다./n
