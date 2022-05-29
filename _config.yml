@@ -64,14 +64,14 @@ content:
             - 사업부 대외 운영 업무 수행
             
       - layout: left
-        title: IBM Lifecycle Optimization - Publishing 유지보수
+        title: IBM Lifecycle Optimization - Publishing 개발
         caption: 2020.6 ~ 2021.4
         description: | 
             [기술스택]
             - IBM Rhapsody, UML, IBM Lifecycle Optimization, Javascript, Restful API
             
             [진행업무]
-            - ISO26262, ASPICE, Classic AUTOSAR 설계 문서 산출물을 위한 툴 구축
+            - ISO26262, ASPICE, Classic AUTOSAR 설계 문서 산출물을 위한 툴 구축 기획, 개발
             - 고객사 요구사항에 맞춰 문서 산출물 스크립트 유지보수
             
       - layout: left
