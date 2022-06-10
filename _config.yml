@@ -116,7 +116,7 @@ content:
         quote: >
           한글과컴퓨터 자회사로 차세대 모빌리티의 핵심 소프트웨어를 쉽게 개발하고 확장 가능한 개발 플랫폼 제공합니다.
  
-       - layout: right
+      - layout: right
         title: 아주대학교 사이버보안학과
         sub_title: 학부생
         caption: 2013.03 ~ 2020.02
