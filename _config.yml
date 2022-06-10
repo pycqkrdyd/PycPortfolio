@@ -116,6 +116,14 @@ content:
         quote: >
           한글과컴퓨터 자회사로 차세대 모빌리티의 핵심 소프트웨어를 쉽게 개발하고 확장 가능한 개발 플랫폼 제공합니다.
  
+       - layout: right
+        title: 아주대학교 사이버보안학과
+        sub_title: 학부생
+        caption: 2013.03 ~ 2020.02
+        link: https://www.ajou.ac.kr/kr/index.do
+        quote: >
+          아주대학교에서 사이버보안학과를 전공하였으며 보안 외에도 개발에 관심이 있어 오픈소스, 빅데이터, 임베디드 SW, 등 전선과목을 통해 다양한 지식을 접했습니다.
+ 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
