@@ -40,8 +40,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 내비게이션 SW 사양 관리
-        caption: 2022.1 ~ 현재
+        title: CCU2세대 SW 사이버보안 사양 관리
+        caption: 2022.10 ~ 진행 중
+        description: | 
+            [기술스택]
+            - JIRA, Confluence, ISO21434, UNECE R.155, Vehicle Cybersecurity
+            
+            [진행업무]
+            - 추가/변경/삭제된 사양으로 인해 법규 영향(고객사 차량 사이버보안 법규)이 있는 항목 검토
+            - CAN IDS / Ethernet IDS 사양 검토
+            - TARA(보안취약점) 분석,성적서 증빙자료 작성, 보안 사양 협의 및 관리
+            - 고객사와 커뮤니케이션하며 개발 일정 관리
+            
+      - layout: left
+        title: 내비게이션 SW 사이버보안 사양 관리
+        caption: 2022.01 ~ 2022.10
         description: | 
             [기술스택]
             - JIRA, Confluence, ISO21434, UNECE R.155, UNECE R.156, Vehicle Cybersecurity
@@ -54,7 +67,7 @@ content:
       - layout: left
         title: 내비게이션 SW 개발 
                프로세스 관리 및 개선
-        caption: 2021.5 ~ 2021.12
+        caption: 2021.05 ~ 2021.12
         description: | 
             [기술스택]
             - JIRA, Confluence, ASPICE, Process Innovation
@@ -98,10 +111,20 @@ content:
     layout: list
     content:
       - layout: right
+        title: LG Electronics
+        sub_title: Cybersecurity Manager (직급 연구원)
+        caption: 2022.10 ~ 현재
+        link: https://www.hyundai-autoever.com
+        quote: >
+          LG전자 VS(Vehicle component Solutions) 사업본부는 ‘Innovation Partner for Future Mobility’이라는 
+          비전 아래 글로벌 Top Tier 자동차 부품 회사가 되고자 합니다. 전기, 전자 분야의 첨단 기술력과
+          품질 중심 경영을 바탕으로 자율주행 및 차세대 전기차 시장의 고객들에게 차별화된 가치를 제공하고 있습니다. 
+    
+      - layout: right
         title: Hyundai Autoever
         sub_title: Cybersecurity Manager (직급 책임)
         caption: 2021.05 ~ 현재
-        link: https://www.hyundai-autoever.com
+        link: https://www.lge.co.kr/
         quote: >
           미래차 성장 동력의 한 축인 인포테인먼트 산업 전반을 혁신적으로 리드합니다.
           GIS분야의 축적된 기술력과 노하우를 바탕으로 디지털 맵, 내비게이션SW, 자율주행 정밀지도를
